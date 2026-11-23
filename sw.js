@@ -1,6 +1,6 @@
 /* Talaan service worker: keeps the app working offline.
    Bump VERSION whenever you replace index.html so phones pick up the new files. */
-const VERSION = 'talaan-v64';
+const VERSION = 'talaan-v65';
 const SHELL = [
   './', './index.html', './manifest.webmanifest', './jsQR.min.js',
   './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'
